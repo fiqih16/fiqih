@@ -14,4 +14,4 @@
 
 [website]: https://infoteks17.my.id
 [instagram]: https://instagram.com/fiqih.png
-[facebook]: https://facebook.com/fiqih
+[facebook]: https://facebook.com/fiqih.1666/
