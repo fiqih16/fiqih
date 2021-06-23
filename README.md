@@ -1,7 +1,7 @@
 ### Hi there, I'm Fiqih 👋
 
-[![Website](https://img.shields.io/website?label=Infoteks17.my.id&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://infoteks17.my.id)
-[![Website](https://img.shields.io/website?label=Pencarijob.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://pencarijob.com)
+[![Website](https://img.shields.io/website?label=Infoteks17.my.id&style=for-the-badge&url=https%3A%2F%2Finfoteks17.my.id)](https://infoteks17.my.id)
+[![Website](https://img.shields.io/website?label=Pencarijob.com&style=for-the-badge&url=https%3A%2F%2Fpencarijob.com)](https://pencarijob.com)
 
 ### Connect with me:
 
