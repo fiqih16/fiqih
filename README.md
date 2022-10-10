@@ -14,7 +14,8 @@
 ### Connect with me:
 
 [<img align="left" alt="fiqih16 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="fiqih16 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="fiqih16 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="fiqih16 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 <br />
@@ -22,3 +23,4 @@
 [website]: https://infoteks17.my.id
 [instagram]: https://instagram.com/fiqih.png
 [facebook]: https://facebook.com/fiqih.1666/
+[linkedin]: https://www.linkedin.com/in/fiqih-356100225/
